@@ -1,0 +1,11 @@
+numpy
+opencv_contrib_python
+tensorflow
+pandas
+streamlit
+gdown
+Pillow
+h5py
+torch
+torchvision
+sklearn
