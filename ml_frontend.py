@@ -8,7 +8,6 @@ import torch.nn.functional as F
 from torchvision import datasets, models, transforms
 from torch.utils.data import Dataset, DataLoader
 import numpy as np
-import cv2
 from PIL import Image
 from io import BytesIO
 import pandas as pd
