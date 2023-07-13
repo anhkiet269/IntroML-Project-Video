@@ -8,4 +8,4 @@ Pillow
 h5py
 torch
 torchvision
-sklearn
+scikit-learn
